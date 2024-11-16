@@ -1,6 +1,6 @@
 BARS SOFTWARE LICENSE
 
-Copyright 2024 KyogreKube
+Copyright 2024 <Name>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
